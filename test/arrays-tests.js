@@ -4,7 +4,7 @@ it.optional = require('../extensions/it-optional');
 
 describe('arrays-tasks', () => {
   it.optional(
-    'getIntervalArray should return the array of integers from start to end (inclusive),
+    'getIntervalArray should return the array of integers from start to end (inclusive)',
     () => {
       [
         {
